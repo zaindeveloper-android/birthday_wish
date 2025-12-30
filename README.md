@@ -1,2 +1,7 @@
-# birthday_wish
-This is a small HTML, CSS, and JavaScript project created for a surprise proposal page. It displays dialogs, interactive messages, and animations when opened in the browser.
+# Run the code below
+clone -> enter directory -> instal dependencies and modules -> run it [commands below]
+
+```
+npm install
+npm run dev
+```
